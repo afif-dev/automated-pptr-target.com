@@ -1,0 +1,24 @@
+##-------Product 1------##
+Url: https://www.target.com/p/apple-ipad-mini-wi-fi-2021-model/-/A-84619867
+Title: Apple iPad mini Wi-Fi (2021 Model)
+Price: $499.99
+##-------Product 2------##
+Url: https://www.target.com/p/apple-iphone-13-pro/-/A-84616122
+Title: Apple iPhone 13 Pro
+Retail price: $999.99
+##-------Product 3------##
+Url: https://www.target.com/p/tandera-mesh-ergonomic-swivel-office-chair-mibasics/-/A-84169920
+Title: Tandera Mesh Ergonomic Swivel Office Chair - miBasics
+Price: $279.99
+##-------Product 4------##
+Url: https://www.target.com/p/vinsetto-high-back-executive-office-chair-ergonomic-leather-computer-desk-chair-with-adjustable-height-removable-headrest-and-360-swivel-wheels-deep-grey/-/A-86200401
+Title: Vinsetto High-Back Executive Office Chair, Ergonomic Leather Computer Desk Chair with Adjustable Height, Removable Headrest and 360 Swivel Wheels, Deep Grey
+Price: $97.99
+##-------Product 5------##
+Url: https://www.target.com/p/de-longhi-combination-espresso-coffee-machine-stainless-steel-bco430/-/A-53159823
+Title: De'Longhi Combination Espresso/Coffee Machine - Stainless Steel BCO430
+Price: $219.95
+##-------Product 6------##
+Url: https://www.target.com/p/nespresso-vertuo-chrome-by-breville/-/A-15725476
+Title: Nespresso Vertuo Chrome by Breville
+Price: $209.99

@@ -1,4 +1,4 @@
-# Automated End-to-end(e2e) testing with Puppeteer and target.com website
+# Automated end-to-end(e2e) testing with Puppeteer and target.com website
 
 ## Features
 - Get homepage screenshot. (headless)
